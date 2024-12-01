@@ -1,0 +1,4 @@
+[submodule "themes/meow"]
+	url  = https://gitee.com/gh_river/hexo-theme-meow
+	path = themes/meow
+

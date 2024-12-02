@@ -109,6 +109,12 @@ deploy:
 
 
 
+admin:
+  username: haoyu_ovo
+  password_hash: dhy110819_
+  secret: p9
+
+
 
 
 

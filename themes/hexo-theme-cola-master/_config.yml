@@ -1,13 +1,13 @@
-title: 我的技术与生活——可乐的小站
+title: WinterCat'Blog
 # 左侧栏名字
-author_name: Cola.
+author_name: WinterCat
 
 # 左侧栏标签，只能两个
 tag1: 中二
-tag2: 宅
+tag2: 癫
 
 # 左侧栏Github连接
-github_url: https://github.com/Aizener
+github_url: https://github.com/awaidea
 
 # 左侧栏座右铭，分两句
 motto_prev: “花有重开日，人无再少年”
@@ -29,7 +29,7 @@ links:
  - ['https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg', 'Hexo.', 'https://hexo.io/zh-cn/']
 
 # 右侧栏公告
-notice: Hello~大噶好。唔系可乐爱宅着，欢迎你们来到我的博客小站，希望能在这里收获到有用的东西哦！
+notice: TheThe best notice is has no notice.
 
 # 右侧音乐列表：歌名、作者、链接、封面
 musics:
@@ -39,12 +39,12 @@ musics:
 
 # 个人介绍
 likes:
-  - 姓名：杨祥
-  - 年龄：25
+  - 姓名：邓皓宇
+  - 年龄：13
   - 性别：♂
-  - 家乡：四川省雅安市某小镇
-  - 现居住地：四川省成都市武侯区
-  - 职业：Web前端开发
+  - 家乡：？-～-
+  - 现居住地：四川省成都市温江区
+  - 职业：学生
   - 喜欢：打游戏，游泳，下象棋
 
 # 工具配置：封面，标题，介绍，链接
@@ -53,15 +53,15 @@ tools:
   - ['https://coke-cola.gitee.io/resume-page/assets/dark-f439b888.jpeg', '在线简历生成器', '一个免费的在线简历生成工具', 'https://coke-cola.gitee.io/resume-page/#/']
 
 # 右侧栏网站信息
-copyright: 蜀ICP备2022005384号-1
+copyright: 
 
 
 # 是否开启文章评论 Valine:https://valine.js.org/configuration.htm
 comments:
   enable: true
-  appId: 'Pf8zCXGEH1qsprnWfikVVujL-gzGzoHsz'
-  appKey: 'qOqoiUHhH1TGtLRUYURkLRQX'
-  placeholder: '请留下你宝贵的意见吧~'
+  appId: 'LCWiu0ZAWFSeewjo7llrmcQa-gzGzoHsz'
+  appKey: 'QaHc5r6Zu38DzlG9PeFqIGvJ'
+  placeholder: '看啊，鸟在飞~'
   meta: ['nick']
   recordIP: true
   visitor: true

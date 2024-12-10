@@ -10,11 +10,11 @@ tag2: 癫
 github_url: https://github.com/awaidea
 
 # 左侧栏座右铭，分两句
-motto_prev: “花有重开日，人无再少年”
-motto_last: “一个简单普通的男孩”
+motto_prev: “Looking for me”
+motto_last: “看啊，鸟在飞～”
 
 # 小站部署日期（运营时间）
-public_date: 2022-02-16
+public_date: 2024-10-07
 
 # 左侧栏菜单
 menu:
@@ -29,7 +29,7 @@ links:
  - ['https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg', 'Hexo.', 'https://hexo.io/zh-cn/']
 
 # 右侧栏公告
-notice: TheThe best notice is has no notice.
+notice: The best notice is to have no notice.
 
 # 右侧音乐列表：歌名、作者、链接、封面
 musics:
@@ -45,7 +45,8 @@ likes:
   - 家乡：？-～-
   - 现居住地：四川省成都市温江区
   - 职业：学生
-  - 喜欢：打游戏，游泳，下象棋
+  - 喜欢：打游戏…
+
 
 # 工具配置：封面，标题，介绍，链接
 tools:

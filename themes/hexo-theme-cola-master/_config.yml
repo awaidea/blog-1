@@ -22,7 +22,7 @@ menu:
   - [个人日志, '/log', 'icon-rizhi']
   - [友情链接, '/link', 'icon-youqinglianjie']
   - ['关于自己', '/about', 'icon-guanyuwomen']
-  - ['我的工具', '/tools', 'icon-gongju']
+  - ['我的网盘', 'htttps://ribbon-difficult-yarrow.glitch.me', 'icon-gongju']
 
 # 友情连接：头像、名字、链接
 links:

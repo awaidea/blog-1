@@ -11,5 +11,5 @@ comments: true
 - Discord: [Discord](https://discordapp.com/users/icons-space)
 - QQ: [QQ](tencent://message/?uin=2025650064&Site=&Menu=yes)
 - 最喜欢的游戏：Minecraft
-- 本站HEXO主题： Cola
+- 本站HEXO主题： Butterfly
 - [本站地址](https://ghriver.top)

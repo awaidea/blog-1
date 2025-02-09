@@ -114,7 +114,7 @@ cover:
 # Replace Broken Images
 error_img:
   flink: /img/friend_404.gif
-  post_page: https://s2.loli.net/2025/02/09/S5A7JTy3WY4NRLc.png
+  post_page: /img/error-page.png
 
 # A simple 404 page
 error_404:

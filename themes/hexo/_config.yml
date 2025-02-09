@@ -29,6 +29,7 @@ menu:
      Archives: /archives
      Categories: /categories
      Tags: /tags
+  RSS: /atom.xml || fas fa-rss
   #   Movie: /movies/ || fas fa-video
 
 # --------------------------------------

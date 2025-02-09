@@ -3,3 +3,6 @@
     font-display: swap;
     src: url('../font/1-font.ttf') format("truetype");
 }
+body {
+    font-family: '1-font';
+}

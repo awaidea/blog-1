@@ -20,8 +20,9 @@ menu:
   Home: / || fas fa-home
   Links: /link || fas fa-link
   About: /about || fas fa-heart
-  List||fas fa-list:
+  Pages||fas fa-list:
      Photos: https://photo.ghriver.top
+     FireWork: https://firework.ghriver.top
   Article||fas fa-list:
      Archives: /archives
      Categories: /categories

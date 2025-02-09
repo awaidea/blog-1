@@ -525,7 +525,7 @@ comments:
   # Leave it empty if you don't need comments
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
   # Format of two comments system : Disqus,Waline
-  use: Waline
+  use: Waline，Twikoo
   # Display the comment name next to the button
   text: true
   # Lazyload: The comment system will be load when comment element enters the browser's viewport.
@@ -880,7 +880,7 @@ clickShowText:
   enable: true
   text:
      - OvO
-     - @_@
+     - 0_0
      - QWQ
   fontSize: 15px
   random: true

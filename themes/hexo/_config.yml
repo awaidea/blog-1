@@ -116,8 +116,8 @@ error_img:
 # A simple 404 page
 error_404:
   enable: true
-  subtitle: 'Page Not Found'
-  background: /img/error-page.png
+  subtitle: '谁把我瓜吃了？'
+  background: categories
 
 post_meta:
   # Home Page
@@ -127,7 +127,7 @@ post_meta:
     # Choose: date / relative
     date_format: date
     categories: true
-    tags: false
+    tags: true
     label: true
   post:
     # Choose: left / center
@@ -166,7 +166,7 @@ subtitle:
   # 1 - hitokoto.cn
   # 2 - yijuzhan.com
   # 3 - jinrishici.com
-  source: 1
+  source: 2
   # If you close the typewriter effect, the subtitle will only show the first line of sub
   sub:
 

@@ -1044,6 +1044,20 @@ inject:
   bottom:
     # - <script src="xxxx"></script>
 
+feed:
+  enable: true
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: https://file.ghriver.top/avatar.png
+  autodiscovery: true
+  template:
+
 # CDN Settings
 # Don't modify the following settings unless you know how they work
 CDN:

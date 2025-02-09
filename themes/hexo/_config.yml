@@ -525,7 +525,7 @@ comments:
   # Leave it empty if you don't need comments
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
   # Format of two comments system : Disqus,Waline
-  use: Waline，Twikoo
+  use: Waline
   # Display the comment name next to the button
   text: true
   # Lazyload: The comment system will be load when comment element enters the browser's viewport.
@@ -582,7 +582,7 @@ valine:
 # https://waline.js.org/
 waline:
   serverURL: https://wcm.ghriver.top
-  bg:
+  bg: https://file.ghriver.top/banner.png
   # Use Waline pageview count as the page view count
   pageview: false
   option:

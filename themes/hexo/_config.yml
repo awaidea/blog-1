@@ -170,7 +170,7 @@ subtitle:
   # 1 - hitokoto.cn
   # 2 - yijuzhan.com
   # 3 - jinrishici.com
-  source: 2
+  source: 1
   # If you close the typewriter effect, the subtitle will only show the first line of sub
   sub:
 
@@ -475,7 +475,7 @@ math:
 search:
   # Choose: algolia_search / local_search / docsearch
   # leave it empty if you don't need search
-  use:
+  use: local_search
   placeholder:
 
   # Algolia Search
@@ -486,11 +486,11 @@ search:
   # Local Search
   local_search:
     # Preload the search data when the page loads.
-    preload: false
+    preload: true
     # Show top n results per article, show all results by setting to -1
     top_n_per_article: 1
     # Unescape html strings to the readable one.
-    unescape: false
+    unescape: true
     CDN:
 
   # Docsearch
@@ -588,7 +588,22 @@ waline:
   serverURL: https://wcm.ghriver.top
   bg: https://file.ghriver.top/banner.png
   # Use Waline pageview count as the page view count
-  pageview: false
+  emoji:
+    - https://unpkg.com/@waline/emojis@1.2.0/weibo
+    - https://unpkg.com/@waline/emojis@1.2.0/alus
+    - https://unpkg.com/@waline/emojis@1.2.0/bilibili
+    - https://unpkg.com/@waline/emojis@1.2.0/qq
+    - https://unpkg.com/@waline/emojis@1.2.0/tieba
+    - https://unpkg.com/@waline/emojis@1.2.0/tw-emoji
+  meta:
+    - nick
+    - mail
+    - link
+  requiredMeta:
+    - nick
+    - mail
+  wordLimit: 0
+  pageSize: 10
   option:
 
 # Utterances

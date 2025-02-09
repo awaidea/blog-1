@@ -15,7 +15,7 @@ emmm...怎么说呢，去年建的的那个版本的源文件在去年十一装U
 # 经过
 
 ## 主题
-~~<font color=red>MDUILW</font>,虽然这个主题貌似烂尾了，但却实比fuild的ui好看，<font color=Blue>fuild</font>的UI实在欣赏不来,（才不是配置评论插件时搞爆了TAT~~
+~~<font color=red>MDUILW</font>,虽然这个主题貌似烂尾了，但却实比fuild的ui好看，<font color=Blue>fuild</font>的UI实在欣赏不来,（才不是配置评论插件时搞爆了TAT
 (虽然还是挺好看的
 不过人家MDUILW就是不错，起码不会显得网站看起来很奇怪.~~
 已改为Butterfly

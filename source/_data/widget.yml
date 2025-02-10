@@ -10,4 +10,4 @@ top:
     name: 倒数日
     icon: fas fa-calendar
     order: 6
-    html: <img src="https://www.widgets.link/#/count-down-05?mc=333333&sc=8D9BAF&nc=17A0F5&bg=&cbg=FFFFFF&br=20&_b=true&t=2026年中考&d=2026-06-13&bt=&at=" alt="2026中考倒计时">
+    html: '<img src="https://www.widgets.link/#/count-down-05?mc=333333&sc=8D9BAF&nc=17A0F5&bg=&cbg=FFFFFF&br=20&_b=true&t=2026年中考&d=2026-06-13&bt=&at=" alt="2026中考倒计时">'

@@ -3,5 +3,10 @@ top:
     id_name: user-map
     name: 访客地图
     icon: fas fa-heartbeat
-    order:
+    order: 5
     html: '<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ZXVByHawNywD2U0eSazSmGoFswPUCwZZQxpwgLU6nTo"></script>'
+  - class_name: daynumbers
+    id-name: daynumbers
+    icon: fas fa-calendar
+    order: 6
+    html: <img src="https://www.widgets.link/#/count-down-05?mc=333333&sc=8D9BAF&nc=17A0F5&bg=&cbg=FFFFFF&br=20&_b=true&t=2026年中考&d=2026-06-13&bt=&at=" alt="2026中考倒计时">

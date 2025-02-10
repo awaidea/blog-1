@@ -10,4 +10,5 @@ top:
     name: 倒数日
     icon: fas fa-calendar
     order: 6
+    border: none
     html: '<iframe src="https://www.widgets.link/#/count-down-05?mc=333333&sc=8D9BAF&nc=17A0F5&bg=&cbg=FFFFFF&br=20&_b=true&t=2026年中考&d=2026-06-13&bt=&at=内容" width="100%" height="300"></iframe>'

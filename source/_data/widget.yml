@@ -10,4 +10,24 @@ top:
     name: 倒数日
     icon: fas fa-calendar
     order: 6
-    html: '<img src="https://www.widgets.link/#/count-down-05?mc=333333&sc=8D9BAF&nc=17A0F5&bg=&cbg=FFFFFF&br=20&_b=true&t=2026年中考&d=2026-06-13&bt=&at=" alt="2026中考倒计时">'
+    html: '<script>
+        function updateCountdown() {
+            const targetDate = new Date('2026-06-13T00:00:00');
+            const now = new Date();
+            const timeDifference = targetDate - now;
+            const countdownElement = document.getElementById('countdown');
+            if (timeDifference <= 0) {
+                countdownElement.textContent = '2026 成都中考已经开始啦！';
+            } else {
+                const days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+                const hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                const minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+                const seconds = Math.floor((timeDifference % (1000 * 60)) / 1000);
+                countdownElement.textContent = `距离 2026 成都中考还有 ${days} 天 ${hours} 小时 ${minutes} 分钟 ${seconds} 秒`;
+            }
+        }
+        // 首次调用函数显示初始倒计时
+        updateCountdown();
+        // 每秒调用一次 updateCountdown 函数以实现实时更新
+        setInterval(updateCountdown, 1000);
+    </script>'

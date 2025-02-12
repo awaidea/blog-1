@@ -12,4 +12,4 @@ comments: true
 - QQ: [QQ](tencent://message/?uin=2025650064&Site=&Menu=yes)
 - 最喜欢的游戏：Minecraft
 - 本站Hexo主题： Butterfly
-- [本站地址](https://ghriver.top)
+- [本站地址](https://blog.catp.cc)

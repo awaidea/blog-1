@@ -3,12 +3,18 @@ top:
     id_name: user-map
     name: 访客地图
     icon: fas fa-heartbeat
-    order: 5
+    order:
     html: '<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=TlQAOCJR4BV7QhWTUlmW1wNvrvgMaDZtrVgQEf5P0nc"></script>'
+  - class_name: travel
+    id_name: travel
+    name: 异次元之旅
+    icon: fas fa-link
+    order:
+    html: '<a href="https://travel.moe/go.html" target="_blank"><img src="https://travel.moe/images/logo/gif-kt/startup-cyan.gif" style="width:auto;height:36px" title="异次元之旅-跃迁-我们一起去萌站成员的星球旅行吧！"></a>'
   - class_name: daynumbers
-    id-name: daynumbers
+    id_name: daynumbers
     name: 倒数日
     icon: fas fa-calendar
-    order: 6
+    order:
     border: none
     html: '<iframe src="https://www.widgets.link/#/count-down-05?mc=333333&sc=8D9BAF&nc=17A0F5&bg=&cbg=FFFFFF&br=20&_b=true&t=2026年中考&d=2026-06-13&bt=&at=内容" width="100%" height="300" style="border: none;"></iframe>'

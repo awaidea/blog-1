@@ -4,7 +4,7 @@ top:
     name: 访客地图
     icon: fas fa-heartbeat
     order:
-    html: '<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=TlQAOCJR4BV7QhWTUlmW1wNvrvgMaDZtrVgQEf5P0nc"></script>'
+    html: '<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=5dhTElcaZCp5JebjA6LrQM4n3FHSkwsWcDcWtNQnuTk"></script>'
   - class_name: travel
     id_name: travel
     name: 异次元之旅

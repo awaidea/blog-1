@@ -4,7 +4,7 @@ top:
     name: 访客地图
     icon: fas fa-heartbeat
     order: 5
-    html: '<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ZXVByHawNywD2U0eSazSmGoFswPUCwZZQxpwgLU6nTo"></script>'
+    html: '<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=TlQAOCJR4BV7QhWTUlmW1wNvrvgMaDZtrVgQEf5P0nc"></script>'
   - class_name: daynumbers
     id-name: daynumbers
     name: 倒数日

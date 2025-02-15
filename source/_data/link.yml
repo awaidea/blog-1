@@ -5,3 +5,10 @@
       link: https://hexo.io/zh-tw/
       avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
       descr: 快速、简单且强大的网志框架
+- class_name: 与我相关
+  class_desc: 一些由我建设的网站
+  link_list: 
+  - name: Compass Index
+    link: https://cpin.top
+    avatar: https://acbox.app/f/0vgGFM/favicon.ico
+    descr: 决对简洁的导航站

@@ -30,6 +30,7 @@ menu:
      Categories: /categories
      Tags: /tags
   RSS: /atom.xml || fas fa-rss
+  FreeVPS: https://evolution-host.com/
   #   Movie: /movies/ || fas fa-video
 
 # --------------------------------------

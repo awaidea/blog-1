@@ -892,8 +892,8 @@ fireworks:
 
 # Mouse click effects: Heart symbol
 click_heart:
-  enable: false
-  mobile: false
+  enable: true
+  mobile: true
 
 # Mouse click effects: words
 clickShowText:
@@ -992,7 +992,7 @@ pjax:
 
 # Inject the css and script (aplayer/meting)
 aplayerInject:
-  enable: false
+  enable: true
   per_page: true
 
 # Snackbar - Toast Notification

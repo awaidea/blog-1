@@ -586,7 +586,7 @@ valine:
 # Waline - A simple comment system with backend support fork from Valine
 # https://waline.js.org/
 waline:
-  serverURL: https://wcm.ghriver.top
+  serverURL: https://wcm.catp.cc
   bg: https://s2.loli.net/2025/02/08/HULlmu5Xt7CVPOG.jpg
   # Use Waline pageview count as the page view count
   emoji:
